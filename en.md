@@ -11,6 +11,12 @@ Hinako Iseki / OSGeo Japan
 
 ---
 
+You can access the Korean version of the presentation slides here.
+
+![alt text](img/image-3.png)
+
+---
+
 ## What I'll Talk About Today
 
 - [Self Introduction](#self-introduction)
